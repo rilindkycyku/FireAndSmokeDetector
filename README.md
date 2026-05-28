@@ -1,4 +1,4 @@
-<h1 style="color: #e63946; text-align: center;">Smoke and Flame Detector - Arduino System</h1>
+﻿<h1 style="color: #e63946; text-align: center;">Smoke and Flame Detector - Arduino System</h1>
 
 <p style="font-size: 1.2em; text-align: center; color: #444;">
   <strong>Projekt i zhvilluar në kuadër të lëndës Inxhinieri e Sistemeve Kompjuterike në UBT</strong>
@@ -82,3 +82,8 @@
 <p style="text-align: center; color: #888;">
   © 2026 <strong>Rilind Kyçyku</strong> & <strong>Ilire Jezerci</strong> | UBT University
 </p>
+
+
+## Të Drejtat e Autorit (Copyright & License)
+
+Ky projekt është pronë intelektuale e **Rilind Kyçyku**. Nuk lejohet përdorimi, kopjimi, modifikimi apo shpërndarja e këtij kodi pa pëlqimin paraprak dhe miratimin me shkrim nga autori. Çdo përdorim i paautorizuar është rreptësisht i ndaluar.
